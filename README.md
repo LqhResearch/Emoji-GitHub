@@ -144,24 +144,25 @@
 | :construction_worker_man: | `:construction_worker_man:` | :construction_worker_woman: | `:construction_worker_woman:` | :control_knobs: | `:control_knobs:` |
 | :convenience_store: | `:convenience_store:` | :cook: | `:cook:` | :cook_islands: | `:cook_islands:` |
 | :cookie: | `:cookie:` | :cool: | `:cool:` | :cop: | `:cop:` |
-| :copyright: | `:copyright:` | :coral: | `:coral:` | :corn: | `:corn:` |
-| :costa_rica: | `:costa_rica:` | :cote_divoire: | `:cote_divoire:` | :couch_and_lamp: | `:couch_and_lamp:` |
-| :couple: | `:couple:` | :couple_with_heart: | `:couple_with_heart:` | :couple_with_heart_man_man: | `:couple_with_heart_man_man:` |
-| :couple_with_heart_woman_man: | `:couple_with_heart_woman_man:` | :couple_with_heart_woman_woman: | `:couple_with_heart_woman_woman:` | :couplekiss: | `:couplekiss:` |
-| :couplekiss_man_man: | `:couplekiss_man_man:` | :couplekiss_man_woman: | `:couplekiss_man_woman:` | :couplekiss_woman_woman: | `:couplekiss_woman_woman:` |
-| :cow: | `:cow:` | :cow2: | `:cow2:` | :cowboy_hat_face: | `:cowboy_hat_face:` |
-| :crab: | `:crab:` | :crayon: | `:crayon:` | :credit_card: | `:credit_card:` |
-| :crescent_moon: | `:crescent_moon:` | :cricket: | `:cricket:` | :cricket_game: | `:cricket_game:` |
-| :croatia: | `:croatia:` | :crocodile: | `:crocodile:` | :croissant: | `:croissant:` |
-| :crossed_fingers: | `:crossed_fingers:` | :crossed_flags: | `:crossed_flags:` | :crossed_swords: | `:crossed_swords:` |
-| :crown: | `:crown:` | :crutch: | `:crutch:` | :cry: | `:cry:` |
-| :crying_cat_face: | `:crying_cat_face:` | :crystal_ball: | `:crystal_ball:` | :cuba: | `:cuba:` |
-| :cucumber: | `:cucumber:` | :cup_with_straw: | `:cup_with_straw:` | :cupcake: | `:cupcake:` |
-| :cupid: | `:cupid:` | :curacao: | `:curacao:` | :curling_stone: | `:curling_stone:` |
-| :curly_haired_man: | `:curly_haired_man:` | :curly_haired_woman: | `:curly_haired_woman:` | :curly_loop: | `:curly_loop:` |
-| :currency_exchange: | `:currency_exchange:` | :curry: | `:curry:` | :cursing_face: | `:cursing_face:` |
-| :custard: | `:custard:` | :customs: | `:customs:` | :cut_of_meat: | `:cut_of_meat:` |
-| :cyclone: | `:cyclone:` | :cyprus: | `:cyprus:` | :czech_republic: | `:czech_republic:` |
+| :copilot: | `:copilot:` | :copyright: | `:copyright:` | :coral: | `:coral:` |
+| :corn: | `:corn:` | :costa_rica: | `:costa_rica:` | :cote_divoire: | `:cote_divoire:` |
+| :couch_and_lamp: | `:couch_and_lamp:` | :couple: | `:couple:` | :couple_with_heart: | `:couple_with_heart:` |
+| :couple_with_heart_man_man: | `:couple_with_heart_man_man:` | :couple_with_heart_woman_man: | `:couple_with_heart_woman_man:` | :couple_with_heart_woman_woman: | `:couple_with_heart_woman_woman:` |
+| :couplekiss: | `:couplekiss:` | :couplekiss_man_man: | `:couplekiss_man_man:` | :couplekiss_man_woman: | `:couplekiss_man_woman:` |
+| :couplekiss_woman_woman: | `:couplekiss_woman_woman:` | :cow: | `:cow:` | :cow2: | `:cow2:` |
+| :cowboy_hat_face: | `:cowboy_hat_face:` | :crab: | `:crab:` | :crayon: | `:crayon:` |
+| :credit_card: | `:credit_card:` | :crescent_moon: | `:crescent_moon:` | :cricket: | `:cricket:` |
+| :cricket_game: | `:cricket_game:` | :croatia: | `:croatia:` | :crocodile: | `:crocodile:` |
+| :croissant: | `:croissant:` | :crossed_fingers: | `:crossed_fingers:` | :crossed_flags: | `:crossed_flags:` |
+| :crossed_swords: | `:crossed_swords:` | :crown: | `:crown:` | :crutch: | `:crutch:` |
+| :cry: | `:cry:` | :crying_cat_face: | `:crying_cat_face:` | :crystal_ball: | `:crystal_ball:` |
+| :cuba: | `:cuba:` | :cucumber: | `:cucumber:` | :cup_with_straw: | `:cup_with_straw:` |
+| :cupcake: | `:cupcake:` | :cupid: | `:cupid:` | :curacao: | `:curacao:` |
+| :curling_stone: | `:curling_stone:` | :curly_haired_man: | `:curly_haired_man:` | :curly_haired_woman: | `:curly_haired_woman:` |
+| :curly_loop: | `:curly_loop:` | :currency_exchange: | `:currency_exchange:` | :curry: | `:curry:` |
+| :cursing_face: | `:cursing_face:` | :custard: | `:custard:` | :customs: | `:customs:` |
+| :cut_of_meat: | `:cut_of_meat:` | :cyclone: | `:cyclone:` | :cyprus: | `:cyprus:` |
+| :czech_republic: | `:czech_republic:` |
 
 # Ký tự D
 | | code | | code | | code |
