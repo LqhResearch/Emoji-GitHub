@@ -3,15 +3,17 @@ import https from 'https';
 
 function fetchGitHubEmojis() {
     return new Promise((resolve, reject) => {
-        https.get(
-            'https://api.github.com/emojis',
-            { headers: { 'User-Agent': 'node.js' } },
-            (res) => {
-                let data = '';
-                res.on('data', (chunk) => (data += chunk));
-                res.on('end', () => resolve(JSON.parse(data)));
-            }
-        ).on('error', reject);
+        https
+            .get(
+                'https://api.github.com/emojis',
+                { headers: { 'User-Agent': 'node.js' } },
+                (res) => {
+                    let data = '';
+                    res.on('data', (chunk) => (data += chunk));
+                    res.on('end', () => resolve(JSON.parse(data)));
+                },
+            )
+            .on('error', reject);
     });
 }
 
